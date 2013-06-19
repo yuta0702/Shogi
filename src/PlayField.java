@@ -14,30 +14,24 @@ public class PlayField extends JFrame implements MouseListener{
 		playfield.setVisible(true);
 		
 	}
-
 	@Override
 	public void mouseClicked(MouseEvent e) {
 		
 	}
-
 	@Override
 	public void mousePressed(MouseEvent e) {
 		
 	}
-
 	@Override
 	public void mouseReleased(MouseEvent e) {
 		
 	}
-
 	@Override
 	public void mouseEntered(MouseEvent e) {
 		
 	}
-
 	@Override
 	public void mouseExited(MouseEvent e) {
 		
 	}
-
 }
