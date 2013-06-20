@@ -6,7 +6,15 @@ import javax.swing.JFrame;
 public class PlayField extends JFrame implements MouseListener{
 	
 	private static final long serialVersionUID = 1L;
-
+	
+	
+	
+	public PlayField(){
+		
+		
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		PlayField playfield = new PlayField();
